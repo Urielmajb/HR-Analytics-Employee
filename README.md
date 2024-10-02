@@ -7,9 +7,8 @@ Description:
 - The HR Analytics dashboard provides an overview of the company's workforce, including key statistics such as the average age of employees, attrition rate, number of active employees, and demographic data on gender and marital status. The analysis focuses on several aspects:
 
   1. Attrition Rate: The attrition rate stands at 16.12%, indicating a moderate loss of talent that should be investigated in relation to industry standards.
-  Attrition by Education:
   
-  2. Data reveals that employees in fields such as Life Sciences, Medicine, and Marketing experience significantly higher attrition rates, suggesting these areas require particular attention.
+  2. Attrition by Education: Data reveals that employees in fields such as Life Sciences, Medicine, and Marketing experience significantly higher attrition rates, suggesting these areas require particular attention.
   
   3. Job Satisfaction: Job satisfaction ratings vary among roles, with specific roles showing lower satisfaction levels that could correlate with attrition. The Research Scientist role has high satisfaction, while other roles need further investigation.
   
